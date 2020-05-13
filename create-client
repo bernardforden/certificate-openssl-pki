@@ -1,0 +1,1 @@
+sh ./make-client "./root-ca" "password2016" "5FE1E749AC40478F85767A3A93BF8DD5" "secret"

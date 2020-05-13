@@ -1,0 +1,1 @@
+sh ./make-crl "./root-ca" "password2016"

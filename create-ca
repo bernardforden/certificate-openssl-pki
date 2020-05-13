@@ -1,0 +1,1 @@
+sh ./make-ca "./root-ca" "domain.com" "password2016"
